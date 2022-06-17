@@ -4,8 +4,9 @@
 }
 
 #second {
-    color: rgb(0, 0, 200)
-    font-size:36px;
+    color: #0000ff;
+    font-size: 36px;
+
 }
 
 .middle {
@@ -15,4 +16,10 @@
 
 .third {
     font-size: 24px;
+}
+
+#fourth {
+    background-color: hsl(140, 100%, 50%);
+    font-size: 24px;
+    font-weight: bold;
 }
