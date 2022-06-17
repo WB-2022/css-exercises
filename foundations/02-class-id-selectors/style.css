@@ -1,7 +1,18 @@
-@font-face{
-    font-family: DejaVu Sans;
+.odd {
+    background-color: rgb(242, 135, 135);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-p {
-    color: black;
-    background-color: pink;
+
+#second {
+    color: rgb(0, 0, 200)
+    font-size:36px;
+}
+
+.middle {
+    font-size: 24px;
+}
+
+
+.third {
+    font-size: 24px;
 }
